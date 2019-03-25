@@ -152,7 +152,7 @@ Favicon 图标指的是箭头处这个小图标：
 
 ![](http://img.smyhvae.com/20180118_2013.png)
 
-官网链接<https://www.jx.com/favicon.ico>可以下载这个小图标。
+官网链接<https://www.jd.com/favicon.ico>可以下载这个小图标。
 
 我们把`favicon.ico`图片放到工程文件的根目录，通过下面这种方式进行加载：
 
